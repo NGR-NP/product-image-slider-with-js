@@ -9,12 +9,11 @@ body{
     /* flex-wrap: wrap;
     flex-direction: row; */
 }
-/* for some region i can't use or  github dosen't support background-img url but it is working on my local host  */
 .image-slider{
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url('../img/productimage1.png');
+    background-image: url('img/productimage1.png');
     background-size: cover;
 }
 .product-images{
