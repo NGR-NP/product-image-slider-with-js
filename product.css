@@ -13,7 +13,7 @@ body{
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url('./productimage1.png');
+    background-image: url('img/productimage1.png');
     background-size: cover;
 }
 .product-images{
